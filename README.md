@@ -19,7 +19,7 @@ Before you can use this script, you need the following:
    - Copy the script code provided in this repository.
    - Open your Google Apps Script editor at [https://script.google.com](https://script.google.com).
    - Create a new project (if you don't already have one).
-   - Paste the script code into the script editor.
+   - Paste the script code into the script editor. (Please first do the configuration though 😃)
    - Save the project and give it an appropriate project name.
    - Click the floppy disk icon to save your project.
    - Click on the clock icon ⏰ on the left
@@ -37,7 +37,7 @@ Before you can use this script, you need the following:
    - This function will check for unread emails from the specified sender and forward them to your Discord server.
 
 4. **Customization:**
-   - You can modify the content and format of the messages being forwarded by editing the `payload` object in the script. Please keep in mind that the message in discord may not exceed 2000 characters.
+   - You can modify the content and format of the messages being forwarded by editing the `payload` object in the script. Please keep in mind that messages sent via Discord webhook may not exceed 2000 characters.
 
 ## Support
 
